@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-1,.cls-4,.cls-6{fill:#fff}.cls-1{opacity:.063}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#1b76f0}.cls-4{opacity:.164}.cls-5{fill:none}.cls-7{fill:url(#linear-gradient)}
+        </style>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_4652" width="40" height="40" class="cls-1" data-name="Rectangle 4652" rx="7" transform="translate(-515 -9385)"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="1.086" x2="-11.22" y1=".138" y2="7.777" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset=".442" stop-color="#0052cc"/>
+            <stop offset="1" stop-color="#2684ff"/>
+        </linearGradient>
+    </defs>
+    <g id="Group_9691" data-name="Group 9691" transform="translate(21132 2911)">
+        <g id="Group_9690" data-name="Group 9690">
+            <g id="Group_9688" data-name="Group 9688" transform="translate(-21367 -3012)">
+                <g id="Mask_Group_286" class="cls-2" data-name="Mask Group 286" transform="translate(750 9486)">
+                    <path id="Path_191359" d="M7 0h26a7 7 0 0 1 7 7v26a7 7 0 0 1-7 7H7a7 7 0 0 1-7-7V7a7 7 0 0 1 7-7z" class="cls-3" data-name="Path 191359" transform="translate(-515 -9385)"/>
+                    <circle id="Ellipse_744" cx="13" cy="13" r="13" class="cls-4" data-name="Ellipse 744" transform="translate(-528 -9356)"/>
+                    <circle id="Ellipse_745" cx="13" cy="13" r="13" class="cls-4" data-name="Ellipse 745" transform="translate(-528 -9400)"/>
+                    <circle id="Ellipse_746" cx="13" cy="13" r="13" class="cls-4" data-name="Ellipse 746" transform="translate(-488 -9358)"/>
+                    <circle id="Ellipse_747" cx="13" cy="13" r="13" class="cls-4" data-name="Ellipse 747" transform="translate(-488 -9400)"/>
+                </g>
+                <g id="bitbucket-icon" transform="translate(245.028 112.134)">
+                    <path id="Path_191356" d="M88.167 83.109h4.164l1.005-5.868H87.06z" class="cls-5" data-name="Path 191356" transform="translate(-80.277 -71.224)"/>
+                    <path id="Path_191357" d="M.647 0a.639.639 0 0 0-.639.741l2.713 16.468a.869.869 0 0 0 .85.725h13.014a.639.639 0 0 0 .639-.537L19.937.744A.639.639 0 0 0 19.3 0zM12.07 11.9H7.916L6.792 6.026h6.285z" class="cls-6" data-name="Path 191357"/>
+                    <path id="Path_191358" d="M54.661 77.242h-5.993l-1.006 5.871h-4.15l-4.9 5.817a.865.865 0 0 0 .559.211h13.006a.639.639 0 0 0 .639-.536z" class="cls-7" data-name="Path 191358" transform="translate(-35.603 -71.225)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
